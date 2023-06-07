@@ -1,0 +1,12 @@
+<html> 
+    <head>
+        <title>Mi pagina web proyecto prueba</title>
+    </head>
+    <body>
+        <center><h1>primera página></h1></center>
+        <hr> esta es primera pagina, muy básica, en lenguaje html 
+        en breve se realizará páginas más complejas
+        <p> segundo parrafo</p>
+    </body>
+</html>     
+    
