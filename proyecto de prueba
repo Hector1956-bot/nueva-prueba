@@ -3,7 +3,7 @@
         <title>Mi pagina web proyecto prueba</title>
     </head>
     <body>
-        <center><h1>primera página></h1></center>
+        <h1>primera página></h1>
         <hr> esta es primera pagina, muy básica, en lenguaje html 
         en breve se realizará páginas más complejas
         <p> segundo parrafo</p>
